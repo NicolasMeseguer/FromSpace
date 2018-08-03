@@ -1,0 +1,21 @@
+Imagen de fondo, el atardecer desde la atmósfera, se pueden ver nubes, la luna y las estrellas del firmamento al fondo.
+Un texto en pantalla que dice 'Innovar para asegurar el futuro'.
+
+Página principal de From Space, con el raton se dirige a la parte superior de la pantalla, a la etiqueta donde dice, 'Registro',
+aparece un formulario para la crecion de cuenta.
+
+Esta escena acaba y vuelve a aparecer de nuevo la página principal de FromSpace.
+
+La escena vuelve a finalizar y comienza de nuevo con el fondo de FromSpace, con el raton se dirige esta vez al enlace etiquetado como 'login'
+rellena los datos, e inicia sesion.
+
+Cambio de escena, vuelve a aparecer el fondo de fromspace, se realiza una búsqueda y aparecen varios resultados que son los post que los usuarios
+han creado.
+
+Cambio de escena, vuelve a aparecer el fondo con unos posts en pantalla.
+Se dirige a la parte superior de la pantalla, al enlace etiquetado como 'Crear Post', rellena los campos requeridos y los envia. Seguidamente
+hace una búsqueda en el buscador principal de FromSpace y aparece el post que ha creado, lo abre y se pone un comentario a sí mismo.
+
+Cambio de escena, aparece de nuevo la pantalla inicial de FromSpace.
+
+Fin de video.

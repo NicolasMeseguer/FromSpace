@@ -1,0 +1,71 @@
+
+/* Imagen de fondo deseada */
+
+body {
+	background-image: url('../img/backgroundfijo.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+/* Menu */
+
+.navLetra {
+	color: white;
+}
+
+/* Input central */
+
+.contenedor {
+    margin: auto;
+    margin-top: 20%;
+    align-content: center;
+    border-radius: 10px;
+    width: 500px;
+    position: relative;
+}
+
+.long {
+	width: 100%;	
+}
+
+hr {
+	color: black;
+}
+
+.article a {
+	text-decoration: none;
+}
+
+.licencia {
+	color: #fff;
+}
+
+/* Video */
+.video {
+	height: 400px;
+	margin: 20px;
+}
+
+.titulo {
+	color: #fff;
+}
+
+.imagen {
+	width: 250px
+}
+
+.logoimagen {
+	width: 100px;
+	height: 100px;
+}
+
+.botoncomen {
+	color: black;
+	margin-left: 50%;
+	margin-top: 20px;
+}
+
+#obrasterceros {
+	color: white;
+}
